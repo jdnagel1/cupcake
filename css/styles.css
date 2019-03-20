@@ -1,0 +1,14 @@
+h1 {
+  color: blue;
+  font-style: bold;
+}
+
+.flashy {
+  font-style: italic;
+  color: red;
+}
+
+.best {
+  font-family: optima;
+  color: green;  
+}
